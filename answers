@@ -1,0 +1,20 @@
+// extraLargeArray
+// insert 852.131659 ms
+// append 5.309435 ms
+
+// largeArray
+// insert 5.813472 ms
+// append 601.959 μs
+
+// mediumArray
+// insert 170.972 μs
+// append 177.73 μs
+
+// smallArray
+// insert 58.811 μs
+// append 129.278 μs
+
+// tinyArray
+// insert 44.905 μs
+// append 122.701 μs
+
